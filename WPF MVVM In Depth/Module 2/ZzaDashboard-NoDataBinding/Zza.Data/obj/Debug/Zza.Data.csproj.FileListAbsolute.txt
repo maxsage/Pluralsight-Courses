@@ -1,0 +1,20 @@
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\Zza.Data\obj\Debug\Zza.Data.pdb

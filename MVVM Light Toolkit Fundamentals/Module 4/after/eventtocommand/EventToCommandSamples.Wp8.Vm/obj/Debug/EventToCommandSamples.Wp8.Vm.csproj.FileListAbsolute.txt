@@ -1,0 +1,14 @@
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\EventToCommandSamples.Wp8.Vm.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\EventToCommandSamples.Wp8.Vm.pdb
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.pdb
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.WP8.pdb
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\obj\Debug\EventToCommandSamples.Wp8.Vm.csprojResolveAssemblyReference.cache
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\obj\Debug\EventToCommandSamples.Wp8.Vm.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\obj\Debug\EventToCommandSamples.Wp8.Vm.pdb

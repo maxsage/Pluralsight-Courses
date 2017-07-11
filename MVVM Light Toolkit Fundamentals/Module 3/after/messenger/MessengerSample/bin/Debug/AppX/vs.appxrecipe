@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XPS15</Machine>
+    <WindowsUser>maxsa</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f1d3b034-8d14-4716-8a9c-57a7c17633b0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Laurent</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2F1047F7FEB3C732539A8CF0203532712133D0ABC4E26CA2150B473AC841D0FF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f1d3b034-8d14-4716-8a9c-57a7c17633b0_1.0.0.0_neutral__8785rajwqkham</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f1d3b034-8d14-4716-8a9c-57a7c17633b0_8785rajwqkham!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f1d3b034-8d14-4716-8a9c-57a7c17633b0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Laurent</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-12T15:27:59.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\MessengerSample.exe">
+      <PackagePath>MessengerSample.exe</PackagePath>
+      <Modified>2017-06-13T16:45:56.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2013-10-26T14:33:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2013-10-26T14:33:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\packages\MvvmLightLibs.4.2.30.0\lib\netcore45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2013-10-26T14:33:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\MessengerSample.xr.xml">
+      <PackagePath>MessengerSample.xr.xml</PackagePath>
+      <Modified>2017-05-12T15:27:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\ReceiverUserControl.xbf">
+      <PackagePath>ReceiverUserControl.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\ReceiverWithFeedbackUserControl.xbf">
+      <PackagePath>ReceiverWithFeedbackUserControl.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\SenderUserControl.xbf">
+      <PackagePath>SenderUserControl.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\Skins\MainSkin.xbf">
+      <PackagePath>Skins\MainSkin.xbf</PackagePath>
+      <Modified>2017-06-13T16:45:56.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\messenger\MessengerSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-13T16:45:56.877</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

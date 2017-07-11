@@ -1,0 +1,15 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\NugetIntro.exe.config
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\NugetIntro.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\NugetIntro.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro_MarkupCompile.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.g.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.Properties.Resources.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.csproj.GenerateResource.Cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.pdb

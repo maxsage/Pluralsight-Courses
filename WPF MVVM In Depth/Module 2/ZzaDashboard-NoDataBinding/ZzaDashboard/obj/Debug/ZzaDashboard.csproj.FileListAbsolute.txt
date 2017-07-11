@@ -1,0 +1,98 @@
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.pdb
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.pdb
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.xml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csprojResolveAssemblyReference.cache
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.baml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.g.cs
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\App.g.cs
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.cache
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.lref
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.baml
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\maxsa\Dropbox\wpf-mvvm-in-depth\2-wpf-mvvm-in-depth-m2-exercise-files\demos\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.baml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.lref
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2 WPF MVVM In Depth\ZzaDashboard - NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.baml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.lref
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF MVVM In Depth\2WPFMVVMInDepth\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.baml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.lref
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache

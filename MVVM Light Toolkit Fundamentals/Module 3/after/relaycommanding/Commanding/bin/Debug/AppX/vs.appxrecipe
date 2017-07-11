@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOR07639</Machine>
+    <WindowsUser>csit011</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5e10bb25-3d4d-45df-a0f2-288229e53eab</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Laurent</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>3BF23076286008ACD07834C3373D3DDB5603DC9AD18B7302566B03E60EE3FD85</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5e10bb25-3d4d-45df-a0f2-288229e53eab_1.1.0.0_neutral__8785rajwqkham</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5e10bb25-3d4d-45df-a0f2-288229e53eab_8785rajwqkham!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5e10bb25-3d4d-45df-a0f2-288229e53eab</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Laurent</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-12T13:28:03.688</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\Commanding.exe">
+      <PackagePath>Commanding.exe</PackagePath>
+      <Modified>2017-05-12T13:28:03.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\References\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2017-05-04T15:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-04T15:26:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\Commanding.xr.xml">
+      <PackagePath>Commanding.xr.xml</PackagePath>
+      <Modified>2017-05-12T13:28:03.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-12T13:28:03.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2017-05-12T13:28:03.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-12T13:28:03.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\after\relaycommanding\Commanding\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-12T13:28:03.506</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

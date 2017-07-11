@@ -1,0 +1,1 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 6\before\PlugInSample\PlugInSample\bin\Debug\PlugInSample.exe.config

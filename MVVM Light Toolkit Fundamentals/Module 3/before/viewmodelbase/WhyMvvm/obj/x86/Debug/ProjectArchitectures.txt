@@ -1,0 +1,1 @@
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 3\before\viewmodelbase\WhyMvvm\WhyMvvm.csproj;x86

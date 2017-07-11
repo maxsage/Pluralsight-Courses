@@ -1,0 +1,16 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.exe.config
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics_MarkupCompile.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics_MarkupCompile.lref
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.g.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.Properties.Resources.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.csproj.GenerateResource.Cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\before\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.pdb

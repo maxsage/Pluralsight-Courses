@@ -1,0 +1,20 @@
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\5WPFMVVMInDepth\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\Zza.Data\obj\Debug\Zza.Data.pdb

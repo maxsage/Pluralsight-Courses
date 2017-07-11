@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="EventToCommandSamples.Sl" EntryPointType="EventToCommandSamples.Sl.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="EventToCommandSamples.Sl" Source="EventToCommandSamples.Sl.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras.SL5" Source="GalaSoft.MvvmLight.Extras.SL5.dll" />
+    <AssemblyPart x:Name="GalaSoft.MvvmLight.SL5" Source="GalaSoft.MvvmLight.SL5.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks" Source="Microsoft.Threading.Tasks.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions" Source="Microsoft.Threading.Tasks.Extensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions.Silverlight" Source="Microsoft.Threading.Tasks.Extensions.Silverlight.dll" />
+    <AssemblyPart x:Name="System.Runtime" Source="System.Runtime.dll" />
+    <AssemblyPart x:Name="System.Threading.Tasks" Source="System.Threading.Tasks.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>

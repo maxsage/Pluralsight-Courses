@@ -1,0 +1,48 @@
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo_MarkupCompile.cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo_MarkupCompile.lref
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.g.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.Properties.Resources.resources
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csproj.GenerateResource.Cache
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPF Data Binding in Depth\9 - WPF Data Binding in Depth\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe.config
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.exe
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\ValidationDemo.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csprojResolveAssemblyReference.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\MainWindow.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\App.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo_MarkupCompile.cache
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo_MarkupCompile.lref
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\MainWindow.baml
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.g.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.Properties.Resources.resources
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 9\after\ValidationDemo\ValidationDemo\obj\Debug\ValidationDemo.csproj.GenerateResource.Cache

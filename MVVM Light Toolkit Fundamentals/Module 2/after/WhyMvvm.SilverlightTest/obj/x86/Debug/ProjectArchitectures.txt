@@ -1,0 +1,2 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 2\after\WhyMvvm.SilverlightTest\WhyMvvm.SilverlightTest.csproj;x86
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 2\after\WhyMvvm\WhyMvvm.csproj;x86

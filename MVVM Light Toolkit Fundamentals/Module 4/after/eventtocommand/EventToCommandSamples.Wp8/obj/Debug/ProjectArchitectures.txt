@@ -1,0 +1,2 @@
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\EventToCommandSamples.Wp8.Vm.csproj;neutral
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\EventToCommandSamples.Wp8.csproj;neutral

@@ -1,0 +1,1 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\before\NugetIntro\NugetIntro\bin\Debug\NugetIntro.exe.config

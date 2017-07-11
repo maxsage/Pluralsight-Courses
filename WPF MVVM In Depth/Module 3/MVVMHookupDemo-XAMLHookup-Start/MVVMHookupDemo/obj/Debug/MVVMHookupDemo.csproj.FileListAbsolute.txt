@@ -1,0 +1,2 @@
+C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\3WPFMVVMInDepth\MVVMHookupDemo-XAMLHookup-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-XAMLHookup-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config

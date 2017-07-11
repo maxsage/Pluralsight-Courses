@@ -1,0 +1,2 @@
+C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugInSample\bin\Debug\PlugInSample.exe.config
+C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugInSample\bin\Debug\PlugInSample.exe.config
