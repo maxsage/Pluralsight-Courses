@@ -56,3 +56,5 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light To
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wpf\obj\Debug\EventToCommandSamples.Wpf.g.resources
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wpf\obj\Debug\EventToCommandSamples.Wpf.Properties.Resources.resources
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wpf\obj\Debug\EventToCommandSamples.Wpf.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wpf\obj\Debug\EventToCommandSamples.Wpf.exe
+C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wpf\obj\Debug\EventToCommandSamples.Wpf.pdb

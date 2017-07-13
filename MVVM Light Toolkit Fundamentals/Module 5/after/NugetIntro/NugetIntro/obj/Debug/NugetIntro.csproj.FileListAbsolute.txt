@@ -13,3 +13,6 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light To
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.csproj.GenerateResource.Cache
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.pdb
+C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\bin\Debug\NugetIntro.exe.config
+C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.exe
+C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 5\after\NugetIntro\NugetIntro\obj\Debug\NugetIntro.pdb

@@ -10,37 +10,37 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>d39c6969-12f0-4ba6-a667-dd34a8a55683</PackageIdentityName>
     <PackageIdentityPublisher>CN=maxsa</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\EventToCommandSamples.Wp8.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\EventToCommandSamples.Wp8.dll">
       <PackagePath>EventToCommandSamples.Wp8.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\EventToCommandSamples.Wp8.Vm.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8.Vm\Bin\Debug\EventToCommandSamples.Wp8.Vm.dll">
       <PackagePath>EventToCommandSamples.Wp8.Vm.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.Extras.WP8.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.Extras.WP8.dll">
       <PackagePath>GalaSoft.MvvmLight.Extras.WP8.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.WP8.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.WP8.dll">
       <PackagePath>GalaSoft.MvvmLight.WP8.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll">
       <PackagePath>Microsoft.Expression.Interactions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\Microsoft.Practices.ServiceLocation.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\System.Windows.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\System.Windows.Interactivity.dll">
       <PackagePath>System.Windows.Interactivity.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\de\Microsoft.Expression.Interactions.resources.dll">
@@ -73,63 +73,63 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hant\Microsoft.Expression.Interactions.resources.dll">
       <PackagePath>zh-Hant\Microsoft.Expression.Interactions.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.Extras.WP8.xml">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.Extras.WP8.xml">
       <PackagePath>GalaSoft.MvvmLight.Extras.WP8.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.WP8.xml">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\GalaSoft.MvvmLight.WP8.xml">
       <PackagePath>GalaSoft.MvvmLight.WP8.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\Microsoft.Practices.ServiceLocation.xml">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\packages\MvvmLightLibs.4.2.30.0\lib\wp8\Microsoft.Practices.ServiceLocation.xml">
       <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\AlignmentGrid.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\AlignmentGrid.png">
       <PackagePath>Assets\AlignmentGrid.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\ApplicationIcon.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\ApplicationIcon.png">
       <PackagePath>Assets\ApplicationIcon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\BadgeLogo.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SquareTile150x150.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SquareTile150x150.png">
       <PackagePath>Assets\SquareTile150x150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SquareTile71x71.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\SquareTile71x71.png">
       <PackagePath>Assets\SquareTile71x71.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileLarge.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileLarge.png">
       <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileMedium.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileMedium.png">
       <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileSmall.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\FlipCycleTileSmall.png">
       <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\IconicTileMediumLarge.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\IconicTileMediumLarge.png">
       <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\IconicTileSmall.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\Tiles\IconicTileSmall.png">
       <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\WideLogo.png">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 4\after\eventtocommand\EventToCommandSamples.Wp8\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
