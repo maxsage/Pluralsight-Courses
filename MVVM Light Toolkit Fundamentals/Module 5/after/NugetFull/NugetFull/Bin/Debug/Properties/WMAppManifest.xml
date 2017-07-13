@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="en-US" />
   <App xmlns="" ProductID="{b02bf447-db37-4a57-96fc-2c05366adbe8}" Title="NugetFull" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="NugetFull author" Description="Sample description" Publisher="NugetFull" PublisherID="{02562996-6eda-4f5e-9f9e-39177eb110f4}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
@@ -35,4 +35,4 @@
     </ScreenResolutions>
   </App>
 </Deployment>
-<!-- WPSDK Version 8.0.9900 -->
+<!-- WPSDK Version 8.1.15116 -->
