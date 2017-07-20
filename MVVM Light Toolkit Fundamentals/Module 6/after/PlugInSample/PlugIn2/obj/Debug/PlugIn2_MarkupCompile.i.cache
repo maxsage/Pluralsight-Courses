@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\
 PlugIn2
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 1-127688844
 
-7794469809
-13287014981
+7-1858110317
+13-241993296
 AnotherPlugInControl.xaml;
 
 False

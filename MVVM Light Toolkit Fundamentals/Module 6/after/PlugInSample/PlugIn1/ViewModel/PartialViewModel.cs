@@ -16,7 +16,7 @@ namespace PlugIn1.ViewModel
 
         public string UserFullName
         {
-            get
+            get 
             {
                 return _userFullName;
             }
@@ -84,6 +84,12 @@ namespace PlugIn1.ViewModel
                             message.Content.FirstName);
                     }
                 });
+#if DEBUG
+            if (IsInDesignMode)
+            {
+                UserFullName = "Bugnion, Glaurent";
+            }
+#endif
         }
 
         private void HandleNotification(NotificationMessage message)
