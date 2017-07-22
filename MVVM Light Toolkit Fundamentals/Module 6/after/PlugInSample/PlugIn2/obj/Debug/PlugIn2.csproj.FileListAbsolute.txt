@@ -1,0 +1,14 @@
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\PlugIn2.dll
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\PlugIn2.pdb
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\PlugInSample.Contracts.dll
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\PlugInSample.Contracts.pdb
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\PlugIn2.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\AnotherPlugInControl.baml
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\AnotherPlugInControl.g.cs
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\PlugIn2_MarkupCompile.cache
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\PlugIn2.g.resources
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\PlugIn2.dll
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\PlugInSample\PlugIn2\obj\Debug\PlugIn2.pdb

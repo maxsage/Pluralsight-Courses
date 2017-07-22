@@ -46,6 +46,7 @@
     <Compile Include="AnotherPlugInControl.xaml.cs">
       <DependentUpon>AnotherPlugInControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Design\DesignMainViewModel.cs" />
     <Compile Include="PlugInManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
