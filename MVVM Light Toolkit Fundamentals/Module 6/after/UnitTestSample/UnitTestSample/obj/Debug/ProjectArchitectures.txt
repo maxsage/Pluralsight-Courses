@@ -1,1 +1,1 @@
-C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\MVVM Light Toolkit Fundamentals\Module 6\after\UnitTestSample\UnitTestSample\UnitTestSample.csproj;neutral
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\UnitTestSample\UnitTestSample\UnitTestSample.csproj;neutral

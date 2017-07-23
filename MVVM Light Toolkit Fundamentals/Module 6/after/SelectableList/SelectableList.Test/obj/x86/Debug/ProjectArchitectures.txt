@@ -1,0 +1,2 @@
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\SelectableList\SelectableList.Test\SelectableList.Test.csproj;x86
+C:\Development Tutorials\Pluralsight-Courses\MVVM Light Toolkit Fundamentals\Module 6\after\SelectableList\SelectableList\SelectableList.csproj;x86
