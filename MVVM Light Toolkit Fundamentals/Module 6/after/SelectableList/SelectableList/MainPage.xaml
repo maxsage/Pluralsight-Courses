@@ -127,8 +127,7 @@
                         Content="Button"
                         HorizontalAlignment="Left"
                         Style="{StaticResource NarrowButtonStyle}"
-                        Command="{Binding ExpandCollapseCommand}" />
-
+                        Command="{Binding ExpandCollapseCommand, Mode=OneWay}" />
                 <CheckBox x:Name="SelectionCheckBox"
                           HorizontalAlignment="Left"
                           VerticalAlignment="Top"
