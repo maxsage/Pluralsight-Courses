@@ -94,3 +94,6 @@ C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\4WPFMVVMInDepth\MVV
 C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\4WPFMVVMInDepth\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\bin\Debug\MVVMCommsDemo.exe.config
 C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\4WPFMVVMInDepth\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\obj\Debug\MVVMCommsDemo.exe
 C:\Users\maxsa\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\4WPFMVVMInDepth\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\obj\Debug\MVVMCommsDemo.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 4\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\bin\Debug\MVVMCommsDemo.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 4\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\obj\Debug\MVVMCommsDemo.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 4\MVVMCommsDemo-CustomBehavior-End\MVVMCommsDemo\obj\Debug\MVVMCommsDemo.pdb
