@@ -77,8 +77,6 @@ namespace EntityDataBinding
         public static readonly DependencyProperty OrderStatusesProperty =
             DependencyProperty.Register("OrderStatuses", typeof(List<OrderStatus>), typeof(MainWindow), new PropertyMetadata(null));
 
-
-
         private void OnAdd(object sender, RoutedEventArgs e)
         {
             SelectedCustomer.Orders.Add(NewOrder);

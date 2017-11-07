@@ -1,0 +1,1 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 7\before\DesignTimeSampleData\DesignTimeSampleData\bin\Debug\DesignTimeSampleData.exe.config

@@ -1,0 +1,1 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\TabControls\TabControls\bin\Debug\TabControls.exe.config

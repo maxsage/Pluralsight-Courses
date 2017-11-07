@@ -13,3 +13,6 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bind
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.GenerateResource.Cache
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb

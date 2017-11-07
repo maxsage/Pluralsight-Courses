@@ -15,3 +15,6 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bind
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
