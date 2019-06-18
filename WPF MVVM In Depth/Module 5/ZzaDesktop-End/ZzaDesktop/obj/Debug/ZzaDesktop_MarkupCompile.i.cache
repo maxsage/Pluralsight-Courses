@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\ZzaDesktop\obj\Debug\
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\ZzaDesktop\obj\Debug\
 ZzaDesktop
 none
 false
 DEBUG;TRACE
-C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\ZzaDesktop\App.xaml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\ZzaDesktop\App.xaml
 51753369096
 
-24500877038
-20-1629522140
+24-1141510132
+20-1840509020
 Customers\AddEditCustomerView.xaml;Customers\CustomerListView.xaml;MainWindow.xaml;OrderPrep\OrderPrepView.xaml;Orders\OrderView.xaml;
 
 True

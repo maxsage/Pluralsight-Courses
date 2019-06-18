@@ -54,7 +54,7 @@ namespace BindingProperties
         {
             Customer = new Customer
             {
-                Id = 42,
+                Id = -35,
                 Name = "Joe",
                 PremiumCustomer = true,
                 Age = -35

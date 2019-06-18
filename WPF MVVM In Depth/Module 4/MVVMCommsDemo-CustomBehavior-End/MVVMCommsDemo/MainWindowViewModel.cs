@@ -36,7 +36,7 @@ namespace MVVMCommsDemo
             }
         }
 
-
+        // This delegate trick is used to ensure that the delegate is never null
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
     }
 }

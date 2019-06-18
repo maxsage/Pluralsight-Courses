@@ -11,8 +11,6 @@ namespace MVVMCommsDemo
 {
     public class ShowNotificationMessageBehavior : Behavior<ContentControl>
     {
-
-
         public string Message
         {
             get { return (string)GetValue(MessageProperty); }

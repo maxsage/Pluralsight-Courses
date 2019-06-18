@@ -24,3 +24,6 @@ C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\3WPFMVVMInDepth\MVV
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-Start\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.pdb

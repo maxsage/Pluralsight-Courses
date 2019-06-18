@@ -11,3 +11,6 @@ C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bindin
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\obj\Debug\XmlDataBinding.csproj.GenerateResource.Cache
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\obj\Debug\XmlDataBinding.exe
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\obj\Debug\XmlDataBinding.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\bin\Debug\XmlDataBinding.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\obj\Debug\XmlDataBinding.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\XmlDataBinding\XmlDataBinding\obj\Debug\XmlDataBinding.pdb

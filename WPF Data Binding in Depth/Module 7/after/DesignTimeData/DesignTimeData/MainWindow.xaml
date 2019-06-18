@@ -202,19 +202,19 @@
                   Margin="239,237,80.4,107.4"
                   SelectedValuePath="City">
         </ComboBox>
-        <TextBox HorizontalAlignment="Left"
-                 Height="23"
-                 Margin="262,269,0,0"
-                 TextWrapping="Wrap"
-                 Text="{Binding Path=Name, Source={StaticResource productViewSource}}"
-                 VerticalAlignment="Top"
-                 Width="120" />
         <ListBox HorizontalAlignment="Left"
                  Height="55"
                  Margin="262,297,0,0"
                  VerticalAlignment="Top"
                  Width="176"
                  ItemTemplate="{DynamicResource ProductTemplate}" />
+        <ComboBox x:Name="productComboBox" DisplayMemberPath="Description" ItemsSource="{Binding Source={StaticResource productViewSource}}" Margin="334,270,22,73" SelectedValuePath="Description">
+            <ComboBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <VirtualizingStackPanel/>
+                </ItemsPanelTemplate>
+            </ComboBox.ItemsPanel>
+        </ComboBox>
 
     </Grid>
 </Window>

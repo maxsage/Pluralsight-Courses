@@ -1,0 +1,1 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\ComboAndListBoxes\ComboAndListBoxes\bin\Debug\ComboAndListBoxes.exe.config

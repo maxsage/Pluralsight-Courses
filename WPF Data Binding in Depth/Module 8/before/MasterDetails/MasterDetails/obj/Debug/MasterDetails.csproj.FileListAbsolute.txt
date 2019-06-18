@@ -1,0 +1,1 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\MasterDetails\MasterDetails\bin\Debug\MasterDetails.exe.config

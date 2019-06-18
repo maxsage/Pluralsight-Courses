@@ -1,2 +1,3 @@
 C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\3WPFMVVMInDepth\MVVMHookupDemo-ViewModelLocator-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-ViewModelLocator-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-ViewModelLocator-Start\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config

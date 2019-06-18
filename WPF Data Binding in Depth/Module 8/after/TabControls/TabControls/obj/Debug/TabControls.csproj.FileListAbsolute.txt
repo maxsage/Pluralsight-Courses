@@ -21,3 +21,28 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bind
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.csproj.GenerateResource.Cache
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\TabControls.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\TabControls.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\TabControls.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\ProductView.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\MainWindow.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\ProductView.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\App.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls_MarkupCompile.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls_MarkupCompile.lref
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\MainWindow.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.g.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.Properties.Resources.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\obj\Debug\TabControls.pdb

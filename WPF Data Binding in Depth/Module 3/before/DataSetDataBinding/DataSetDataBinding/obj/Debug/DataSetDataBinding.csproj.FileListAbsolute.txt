@@ -11,3 +11,6 @@ C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bindin
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\obj\Debug\DataSetDataBinding.csproj.GenerateResource.Cache
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\obj\Debug\DataSetDataBinding.exe
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\obj\Debug\DataSetDataBinding.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\bin\Debug\DataSetDataBinding.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\obj\Debug\DataSetDataBinding.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\before\DataSetDataBinding\DataSetDataBinding\obj\Debug\DataSetDataBinding.pdb

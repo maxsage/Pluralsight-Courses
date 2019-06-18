@@ -1,0 +1,10 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\before\DataGrids\Zza.Data\obj\Debug\Zza.Data.pdb

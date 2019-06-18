@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
+
 namespace BindingProperties
 {
     /// <summary>
@@ -28,7 +30,7 @@ namespace BindingProperties
 
         void ChangeIt(object sender, MouseButtonEventArgs e)
         {
-            MyBackground = new SolidColorBrush(Colors.Red);
+            MyBackground = new SolidColorBrush(GetRandomColor());
         }
 
         public Brush MyBackground
@@ -49,6 +51,13 @@ namespace BindingProperties
             ((MyCustomControl)d).TheContent.Fill = e.NewValue as Brush;
         }
 
-
+        private Color GetRandomColor()
+        { 
+            Random randomGen = new Random();
+            System.Drawing.KnownColor[] names = (System.Drawing.KnownColor[])Enum.GetValues(typeof(System.Drawing.KnownColor));
+            System.Drawing.KnownColor randomColorName = names[randomGen.Next(names.Length)];
+            System.Drawing.Color randomColor = System.Drawing.Color.FromKnownColor(randomColorName);
+            return Color.FromArgb(randomColor.A, randomColor.R, randomColor.G, randomColor.B);
+        }
     }
 }

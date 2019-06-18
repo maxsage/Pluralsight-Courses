@@ -20,7 +20,10 @@ namespace BindingSources
             DeleteSelectedCommand = new RelayCommand<Customer>(OnDeleteCustomer, CanDeleteCustomer);
             using (ZzaDbContext context = new ZzaDbContext())
             {
-                Customers = new ObservableCollection<Customer>(context.Customers.Include("Orders").Include("Orders.OrderItems").Include("Orders.OrderItems.Product"));
+                Customers = new ObservableCollection<Customer>(context.Customers
+                    .Include("Orders")
+                    .Include("Orders.OrderItems")
+                    .Include("Orders.OrderItems.Product"));
             }
         }
 

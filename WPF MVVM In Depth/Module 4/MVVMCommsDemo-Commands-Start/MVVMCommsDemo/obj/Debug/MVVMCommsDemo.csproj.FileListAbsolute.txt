@@ -1,0 +1,1 @@
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 4\MVVMCommsDemo-Commands-Start\MVVMCommsDemo\bin\Debug\MVVMCommsDemo.exe.config

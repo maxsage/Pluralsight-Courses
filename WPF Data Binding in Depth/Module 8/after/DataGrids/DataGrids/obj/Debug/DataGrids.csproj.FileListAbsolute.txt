@@ -17,3 +17,24 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bind
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.csproj.GenerateResource.Cache
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\DataGrids.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\DataGrids.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\DataGrids.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\MainWindow.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\MainWindow.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\App.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids_MarkupCompile.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.g.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.Properties.Resources.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\DataGrids\DataGrids\obj\Debug\DataGrids.pdb

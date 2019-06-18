@@ -8,3 +8,14 @@ C:\Users\csit011\Dropbox\wpf-mvvm-in-depth\3-wpf-mvvm-in-depth-m3-exercise-files
 C:\Users\csit011\Dropbox\wpf-mvvm-in-depth\3-wpf-mvvm-in-depth-m3-exercise-files\demos\after\MVVMHookupDemo - DataTemplates\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
 C:\Users\csit011\Dropbox\wpf-mvvm-in-depth\3-wpf-mvvm-in-depth-m3-exercise-files\demos\after\MVVMHookupDemo - DataTemplates\Zza.Data\obj\Debug\Zza.Data.dll
 C:\Users\csit011\Dropbox\wpf-mvvm-in-depth\3-wpf-mvvm-in-depth-m3-exercise-files\demos\after\MVVMHookupDemo - DataTemplates\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 3\MVVMHookupDemo-DataTemplates-End\Zza.Data\obj\Debug\Zza.Data.pdb

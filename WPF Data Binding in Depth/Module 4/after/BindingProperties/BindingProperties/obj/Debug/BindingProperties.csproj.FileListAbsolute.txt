@@ -16,3 +16,22 @@ C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bindin
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csproj.GenerateResource.Cache
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.exe
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\bin\Debug\BindingProperties.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\bin\Debug\BindingProperties.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\bin\Debug\BindingProperties.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\MyCustomControl.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\App.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\MainWindow.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\MyCustomControl.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\App.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties_MarkupCompile.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties_MarkupCompile.lref
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\MainWindow.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.g.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.Properties.Resources.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingProperties\BindingProperties\obj\Debug\BindingProperties.pdb

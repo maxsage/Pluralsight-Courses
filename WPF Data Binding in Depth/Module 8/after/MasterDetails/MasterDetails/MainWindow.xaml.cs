@@ -31,8 +31,6 @@ namespace MasterDetails
             }
         }
 
-
-
         public ObservableCollection<Customer> Customers
         {
             get { return (ObservableCollection<Customer>)GetValue(CustomersProperty); }

@@ -1,1 +1,2 @@
 C:\Users\csit011\Dropbox\DevelopmentTutorials\WPFMVVMInDepth\4WPFMVVMInDepth\MVVMCommsDemo-PropertyChanged-End\MVVMCommsDemo\bin\Debug\MVVMCommsDemo.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 4\MVVMCommsDemo-PropertyChanged-Start\MVVMCommsDemo\bin\Debug\MVVMCommsDemo.exe.config

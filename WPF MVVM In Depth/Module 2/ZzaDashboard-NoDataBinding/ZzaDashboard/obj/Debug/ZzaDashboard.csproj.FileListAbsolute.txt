@@ -96,3 +96,28 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In D
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\ZzaDashboard.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csprojResolveAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\Customers\CustomerEditView.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\App.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard_MarkupCompile.lref
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\MainWindow.baml
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.g.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.Properties.Resources.resources
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.GenerateResource.Cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding\ZzaDashboard\obj\Debug\ZzaDashboard.pdb

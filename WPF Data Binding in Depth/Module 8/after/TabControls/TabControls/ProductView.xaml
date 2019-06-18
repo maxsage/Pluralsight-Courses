@@ -18,7 +18,12 @@
 
     </UserControl.Resources>
     <Grid>
-        <ListBox ItemsSource="{Binding Products}"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Text="hello" Grid.Row="0" />
+        <ListBox ItemsSource="{Binding Products}" Grid.Row="1"/>
 
     </Grid>
 </UserControl>

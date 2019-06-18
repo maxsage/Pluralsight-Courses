@@ -109,7 +109,7 @@
                 VerticalAlignment="Top"
                 Width="164"
                 Click="TriggerCustomerChange" />
-        <local:MyCustomControl MyBackground="{Binding TheBrush}"
+        <local:MyCustomControl  MyBackground="{Binding TheBrush}"
                                HorizontalAlignment="Left"
                                Height="74"
                                Margin="292,57,0,0"
