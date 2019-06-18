@@ -8,3 +8,15 @@ C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bindin
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.dll
 C:\Users\maxsa\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 4\after\BindingSources\Zza.Data\obj\Debug\Zza.Data.pdb
