@@ -2,27 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea320de-0771-48dc-a58f-e0c64e4ff8ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/buildScripts/srcServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/buildScripts/srcServer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 2/after/DataBindingBasics/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WPF MVVM In Depth/Module 2/ZzaDashboard-DataBindingNoMVVM/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/DataSetDataBinding/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WPF MVVM In Depth/Module 2/ZzaDashboard-NoDataBinding/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/EntityDataBinding/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/XmlDataBinding/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 4/after/BindingProperties/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 4/after/BindingSources/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 5/after/BindingProperties/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 6/after/DataTemplates/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 7/after/DesignTimeData/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 7/after/DesignTimeSampleData/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 8/after/ComboAndListBoxes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 8/after/ContentAndItemsControls/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 8/after/DataGrids/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 8/after/MasterDetails/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WPF Data Binding in Depth/Module 8/after/TabControls/.gitignore" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/Document Me - JavaScript Development Environment/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WPF Data Binding in Depth/Module 2/after/DataBindingBasics/.gitignore" />
+        <option value="$PROJECT_DIR$/WPF Data Binding in Depth/Module 2/after/DataBindingBasics/DataBindingBasics/.gitignore" />
+        <option value="$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/EntityDataBinding/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
@@ -52,10 +90,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WPF MVVM In Depth/Module 2/ZzaDashboard-DataBindingNoMVVM" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-DataBindingNoMVVM" />
+      <recent name="C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 2\ZzaDashboard-NoDataBinding" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,15 +117,24 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea320de-0771-48dc-a58f-e0c64e4ff8ad" name="Default Changelist" comment="" />
+      <created>1560874500810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560874500810</updated>
+      <workItem from="1560874502188" duration="1478000" />
+    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1376000" />
+    <option name="totallyTimeSpent" value="2854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1274" y="-2160" width="1292" height="1406" extended-state="0" />
+    <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3011952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19873485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -93,11 +146,123 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32025117" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25460455" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/2-angular-2-getting-started-m2-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/2-angular-2-getting-started-m2-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/2-angular-2-getting-started-m2-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/2-angular-2-getting-started-m2-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/products/product-list.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/4-angular-2-getting-started-m4-exercise-files/app/products/product-list.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/products/product-list.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/5-angular-2-getting-started-m5-exercise-files/app/products/product-list.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/shared/star.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/shared/star.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product-list.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product-list.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product.service.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product.service.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product-filter.pipe.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/8-angular-2-getting-started-m8-exercise-files/app/products/product-filter.pipe.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/shared/star.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/shared/star.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product-list.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product-list.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product.service.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product.service.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product-filter.pipe.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/9-angular-2-getting-started-m9-exercise-files/app/products/product-filter.pipe.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/main.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/main.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/app.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/home/welcome.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/home/welcome.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/shared/star.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/shared/star.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-list.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-list.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product.service.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product.service.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-detail.component.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-detail.component.js" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-filter.pipe.js.map" />
+        <option value="$PROJECT_DIR$/Document Me - Angular 2 Getting Started/11-angular-2-getting-started-m11-exercise-files/app/products/product-filter.pipe.js" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WPF MVVM In Depth/Module 2/ZzaDashboard-NoDataBinding/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF MVVM In Depth/Module 2/ZzaDashboard-DataBindingNoMVVM/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF Data Binding in Depth/Module 2/after/DataBindingBasics/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF Data Binding in Depth/Module 2/after/DataBindingBasics/DataBindingBasics/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/DataSetDataBinding/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF Data Binding in Depth/Module 3/after/EntityDataBinding/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
