@@ -12,7 +12,11 @@ DEBUG;TRACE
 C:\Development Tutorials\Pluralsight-Courses\WPF MVVM In Depth\Module 5\ZzaDesktop-End\ZzaDesktop\App.xaml
 51753369096
 
+<<<<<<< HEAD
 24-1141510132
+=======
+24500877038
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
 20-1840509020
 Customers\AddEditCustomerView.xaml;Customers\CustomerListView.xaml;MainWindow.xaml;OrderPrep\OrderPrepView.xaml;Orders\OrderView.xaml;
 

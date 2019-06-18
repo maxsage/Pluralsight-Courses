@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     <UserControl.Resources>
-        <!--HierarchicalDataTemplate x:Key="CustomerTemplate" ItemsSource="{Binding Orders}">
+        <HierarchicalDataTemplate x:Key="CustomerTemplate" ItemsSource="{Binding Orders}">
             <StackPanel Orientation="Horizontal">
                 <Image Source="Images/person.jpg" Margin="3" Width="50"/>
                 <TextBlock Text="{Binding LastName}" Margin="5"/>
@@ -30,8 +30,8 @@
                     </HierarchicalDataTemplate.ItemTemplate>
                 </HierarchicalDataTemplate>
             </HierarchicalDataTemplate.ItemTemplate>
-        </HierarchicalDataTemplate>-->
-        <HierarchicalDataTemplate DataType="{x:Type data:Customer}" ItemsSource="{Binding Orders}">
+        </HierarchicalDataTemplate>
+        <!--<HierarchicalDataTemplate DataType="{x:Type data:Customer}" ItemsSource="{Binding Orders}">
             <TextBlock Text="{Binding LastName}"/>
         </HierarchicalDataTemplate>
         <HierarchicalDataTemplate DataType="{x:Type data:Order}" ItemsSource="{Binding OrderItems}">
@@ -39,10 +39,10 @@
         </HierarchicalDataTemplate>
         <DataTemplate DataType="{x:Type data:OrderItem}">
             <TextBlock Text="{Binding Product.Name}"/>
-        </DataTemplate>
+        </DataTemplate>-->
     </UserControl.Resources>
     <Grid>
-        <TreeView ItemsSource="{Binding Customers}"/>
-        <!--<TreeView ItemsSource="{Binding Customers}" ItemTemplate="{StaticResource CustomerTemplate}"/>-->
+         <!--<TreeView ItemsSource="{Binding Customers}"/>-->
+       <TreeView ItemsSource="{Binding Customers}" ItemTemplate="{StaticResource CustomerTemplate}"/>
     </Grid>
 </UserControl>

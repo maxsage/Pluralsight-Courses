@@ -12,7 +12,11 @@ DEBUG;TRACE
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\App.xaml
 4-1199287640
 
+<<<<<<< HEAD
 18-1225202478
+=======
+18417184692
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
 161543840696
 DataTemplateSelectorsView.xaml;ExplicitDataTemplatesView.xaml;HierarchicalDataTemplatesView.xaml;MainWindow.xaml;
 

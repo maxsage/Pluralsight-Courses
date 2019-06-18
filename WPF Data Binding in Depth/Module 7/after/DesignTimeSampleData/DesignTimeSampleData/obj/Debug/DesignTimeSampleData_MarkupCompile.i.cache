@@ -12,7 +12,11 @@ DEBUG;TRACE
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 7\after\DesignTimeSampleData\DesignTimeSampleData\App.xaml
 3-629363641
 
+<<<<<<< HEAD
 11-352306601
+=======
+111290080569
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
 23857231307
 MainWindow.xaml;MyDesignData.xaml;SampleData\SampleCustomersDataSource\SampleCustomersDataSource.xaml;
 

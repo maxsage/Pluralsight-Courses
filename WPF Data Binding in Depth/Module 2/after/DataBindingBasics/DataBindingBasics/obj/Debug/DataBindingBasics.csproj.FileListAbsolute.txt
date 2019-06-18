@@ -15,6 +15,7 @@ C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Bind
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.exe
 C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.pdb
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.exe.config
+<<<<<<< HEAD
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.exe
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\bin\Debug\DataBindingBasics.pdb
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\bin\Debug\EntityFramework.dll
@@ -50,3 +51,7 @@ C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\a
 C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.pdb
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.csprojAssemblyReference.cache
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.csproj.CopyComplete
+=======
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.exe
+C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 2\after\DataBindingBasics\DataBindingBasics\obj\Debug\DataBindingBasics.pdb
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870

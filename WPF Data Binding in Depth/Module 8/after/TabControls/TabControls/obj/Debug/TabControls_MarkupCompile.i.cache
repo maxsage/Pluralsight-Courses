@@ -12,7 +12,11 @@ DEBUG;TRACE
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 8\after\TabControls\TabControls\App.xaml
 2-626502969
 
+<<<<<<< HEAD
 121738568934
+=======
+12-914011192
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
 16-1404729838
 MainWindow.xaml;ProductView.xaml;
 

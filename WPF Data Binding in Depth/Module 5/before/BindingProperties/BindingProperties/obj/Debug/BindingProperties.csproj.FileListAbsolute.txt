@@ -1,4 +1,5 @@
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\bin\Debug\BindingProperties.exe.config
+<<<<<<< HEAD
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\bin\Debug\BindingProperties.exe
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\bin\Debug\BindingProperties.pdb
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csprojResolveAssemblyReference.cache
@@ -16,3 +17,5 @@ C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\obj\Debug\BindingProperties.csproj.GenerateResource.Cache
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\obj\Debug\BindingProperties.exe
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\obj\Debug\BindingProperties.pdb
+=======
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870

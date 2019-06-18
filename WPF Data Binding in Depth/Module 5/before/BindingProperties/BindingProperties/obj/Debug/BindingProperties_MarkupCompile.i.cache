@@ -12,9 +12,17 @@ DEBUG;TRACE
 C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 5\before\BindingProperties\BindingProperties\App.xaml
 2-1337435567
 
+<<<<<<< HEAD
 111549538663
 19-86829839
 MainWindow.xaml;MyCustomControl.xaml;
 
 False
+=======
+11-1103041463
+19-86829839
+MainWindow.xaml;MyCustomControl.xaml;
+
+True
+>>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
 

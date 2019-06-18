@@ -17,13 +17,19 @@
                     <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
                 <Image x:Name="ProductImage" Source="{Binding Image}"  Margin="5" Width="100"/>
-                <Grid Grid.Column="1" Height="{Binding ElementName=ProductImage, Path=Height}">
+                <Grid Grid.Column="1" >
                     <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
                     <TextBlock Text="{Binding Name}" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
                     <TextBlock Grid.Row="1" Text="{Binding Description}" TextWrapping="Wrap" Width="300"/>
+                    <TextBlock Grid.Row="2"
+    Text="{Binding RelativeSource={RelativeSource AncestorType=ListBox}, Path=ItemsSource.Count}" />
+                    <TextBlock Grid.Row="3"
+    Text="{Binding ElementName=ProductsListBox, Path=ItemsSource.Count}" />
                 </Grid>
             </Grid>
         </DataTemplate>
