@@ -2,128 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eea320de-0771-48dc-a58f-e0c64e4ff8ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/buildScripts/srcServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/buildScripts/srcServer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Document Me - JavaScript Development Environment/src/index.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/final.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/final.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-06.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-text/example-06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/lazily-binding-values/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/modifying-bound-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/modifying-bound-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/number-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/number-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/trimming-string-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/modifying-bound-values/trimming-string-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-checkboxes/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-checkboxes/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-checkboxes/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-checkboxes/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-drop-down-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-drop-down-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-radio-buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-radio-buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-radio-buttons/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-radio-buttons/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-03/using-input-bindings/binding-to-text-fields/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/custom-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/custom-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-keyed-events/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/all.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-left-mouse-modifier/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-left-mouse-modifier/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-left-mouse-modifier/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-left-mouse-modifier/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-middle-mouse-modifier/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-middle-mouse-modifier/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-right-mouse-modifier/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-special-keys/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-special-keys/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/chaining-modifiers-together.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/chaining-modifiers-together.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/comparing-event-modifiers.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/comparing-event-modifiers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/mixing-capturing-and-bubbling.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/mixing-capturing-and-bubbling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-capture-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-capture-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-once-modifier-propagation.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-once-modifier-propagation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-once-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-once-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-prevent-modifier-on-ancestor.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-prevent-modifier-on-ancestor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-prevent-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-prevent-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-self-modifier-on-ancestor.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-self-modifier-on-ancestor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-self-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-self-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-stop-modifier-on-ancestor.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-stop-modifier-on-ancestor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-stop-modifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/using-the-stop-modifier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/attaching-to-events/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/attaching-to-events/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/defining-an-event-handler/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/defining-an-event-handler/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/examining-the-event/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/examining-the-event/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/handling-events-inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/handling-events-inline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/handling-events-with-methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/handling-events-with-methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/passing-parameters-with-inline-statements/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/shorthand-syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/using-event-handlers/shorthand-syntax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/push-and-pop-function/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/push-and-pop-function/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/push-and-pop-function/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/push-and-pop-function/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/reverse-function/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/reverse-function/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/reverse-function/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/reverse-function/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/shift-and-unshift-functions/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/shift-and-unshift-functions/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/shift-and-unshift-functions/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/shift-and-unshift-functions/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/sort-function/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/sort-function/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/sort-function/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/sort-function/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/splice-function/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/updating-an-array-element/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/updating-an-array-element/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/updating-an-array-element/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/detecting-array-changes/changing-an-array/updating-an-array-element/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/at-runtime/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/at-runtime/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/at-runtime/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/at-runtime/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/on-load/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/on-load/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/on-load/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-elements-conditionally/on-load/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/iterating-through-arrays/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/looping-a-specific-number-of-times/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/traversing-object-properties/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/using-v-for-and-v-if-together/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-05/rendering-lists-of-items/using-v-for-and-v-if-together/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/delete-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/delete-me.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/example-a.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/example-a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/initializing-a-computed-property/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/initializing-a-computed-property/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/using-computed-properties-as-accessors/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/using-computed-properties-as-accessors/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/using-computed-properties-as-accessors/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/faster-rendering-with-computed-properties/using-computed-properties-as-accessors/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/formatting-with-filters/example-05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-behavior/example-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-depth/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-depth/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-depth/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/defining-a-watchers-depth/example-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/example-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/example-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/example-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/VueJSGettingStarted/src/module-06/monitoring-changes-with-watchers/example-02.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Document Me - JavaScript Development Environment/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -147,6 +32,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="405" column="177" selection-start-line="405" selection-start-column="177" selection-end-line="405" selection-end-column="177" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/public/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
@@ -178,7 +75,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-to-html-attributes/binding-to-css-classes/example-01.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/index.html" />
-        <option value="$PROJECT_DIR$/VueJSGettingStarted/src/index.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-01.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-02.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-02/binding-content-to-a-template/binding-html/example-03.html" />
@@ -211,6 +107,7 @@
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/reacting-to-mouse-events/using-the-left-mouse-modifier/example-01.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/example-01.html" />
         <option value="$PROJECT_DIR$/VueJSGettingStarted/src/public/css/app.css" />
+        <option value="$PROJECT_DIR$/VueJSGettingStarted/src/index.html" />
       </list>
     </option>
   </component>
@@ -248,48 +145,24 @@
               <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
               <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-05" type="462c0819:PsiDirectoryNode" />
+              <item name="module-06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Pluralsight-Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
               <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-05" type="462c0819:PsiDirectoryNode" />
-              <item name="rendering-elements-conditionally" type="462c0819:PsiDirectoryNode" />
+              <item name="module-06" type="462c0819:PsiDirectoryNode" />
+              <item name="faster-rendering-with-computed-properties" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Pluralsight-Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
               <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-05" type="462c0819:PsiDirectoryNode" />
-              <item name="rendering-elements-conditionally" type="462c0819:PsiDirectoryNode" />
-              <item name="at-runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pluralsight-Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module-05" type="462c0819:PsiDirectoryNode" />
-              <item name="rendering-elements-conditionally" type="462c0819:PsiDirectoryNode" />
-              <item name="on-load" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pluralsight-Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pluralsight-Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pluralsight-Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="VueJSGettingStarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="module-06" type="462c0819:PsiDirectoryNode" />
+              <item name="faster-rendering-with-computed-properties" type="462c0819:PsiDirectoryNode" />
+              <item name="using-computed-properties-as-accessors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,15 +209,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560874500810</updated>
-      <workItem from="1560874502188" duration="14441000" />
+      <workItem from="1560874502188" duration="16274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15817000" />
+    <option name="totallyTimeSpent" value="17650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19873485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -485,16 +359,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,6 +620,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="17" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/module-04/altering-events/understanding-event-propagation/example-01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-52">
@@ -763,10 +634,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/public/css/app.css">
+    <entry file="file://$PROJECT_DIR$/VueJSGettingStarted/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" selection-start-line="17" selection-end-line="20" />
+        <state relative-caret-position="316">
+          <caret line="405" column="177" selection-start-line="405" selection-start-column="177" selection-end-line="405" selection-end-column="177" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
