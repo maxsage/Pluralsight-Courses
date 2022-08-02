@@ -1,26 +1,11 @@
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll.config
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.pdb
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.xml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll.config
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.xml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
-<<<<<<< HEAD
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csprojResolveAssemblyReference.cache
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\Zza.Data\obj\Debug\Zza.Data.pdb

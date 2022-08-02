@@ -1,50 +1,18 @@
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe.config
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.pdb
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.xml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csprojResolveAssemblyReference.cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.baml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\App.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding_MarkupCompile.cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.g.resources
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.Properties.Resources.resources
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.GenerateResource.Cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.xml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe.config
-<<<<<<< HEAD
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.xml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.xml
-<<<<<<< HEAD
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csprojResolveAssemblyReference.cache
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csprojAssemblyReference.cache
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.baml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\App.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding_MarkupCompile.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.g.resources
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.Properties.Resources.resources
-<<<<<<< HEAD
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.GenerateResource.Cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.CoreCompileInputs.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.GenerateResource.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.CoreCompileInputs.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.CopyComplete
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe.config
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.exe
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityDataBinding.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.baml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\MainWindow.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\App.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding_MarkupCompile.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.g.resources
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.Properties.Resources.resources
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.GenerateResource.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.csproj.CopyComplete
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.exe
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 3\after\EntityDataBinding\EntityDataBinding\obj\Debug\EntityDataBinding.pdb

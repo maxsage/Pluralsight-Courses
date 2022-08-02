@@ -1,4 +1,7 @@
 .idea
+bin
 obj
 .vs
-
+bin/Debug/
+obj/Debug/
+/WPF Data Binding in Depth/Module 3/before/EntityDataBinding/EntityDataBinding/bin/Debug

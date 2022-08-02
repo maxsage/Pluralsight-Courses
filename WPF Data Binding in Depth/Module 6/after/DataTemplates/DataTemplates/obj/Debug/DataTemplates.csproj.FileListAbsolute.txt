@@ -1,65 +1,30 @@
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe.config
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.pdb
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.dll
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.pdb
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.xml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csprojResolveAssemblyReference.cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.baml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\App.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.lref
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.baml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.baml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.baml
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.g.resources
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.Properties.Resources.resources
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.Cache
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.exe
-C:\Users\csit011\Dropbox\Development Tutorials\Pluralsight Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe.config
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.exe
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.dll
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.pdb
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.dll.config
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.xml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.xml
-<<<<<<< HEAD
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csprojAssemblyReference.cache
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csprojResolveAssemblyReference.cache
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.baml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\App.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.lref
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.baml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.baml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.baml
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.g.resources
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.Properties.Resources.resources
-<<<<<<< HEAD
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.CoreCompileInputs.cache
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.CopyComplete
-=======
-C:\Development Tutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.Cache
->>>>>>> 08c7d76a58c917ea38fc493ccffb17351a5f1870
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe.config
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.exe
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\DataTemplates.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.dll
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\Zza.Data.dll.config
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.baml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\HierarchicalDataTemplatesView.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\App.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.lref
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplateSelectorsView.baml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\ExplicitDataTemplatesView.baml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\MainWindow.baml
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.g.resources
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.Properties.Resources.resources
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.CopyComplete
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.exe
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.pdb
+C:\DevelopmentTutorials\Pluralsight-Courses\WPF Data Binding in Depth\Module 6\after\DataTemplates\DataTemplates\obj\Debug\DataTemplates.csproj.AssemblyReference.cache
